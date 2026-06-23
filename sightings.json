@@ -30,14 +30,9 @@
     "activity": "Arrived at work. Unusually cheerful."
   },
   {
-    "time": "2026-06-25T09:30:00",
-    "location": "1 Market Street, Sydney NSW 2000",
-    "activity": "Third coffee. Still suspiciously cheerful."
-  },
-  {
     "time": "2026-06-25T10:00:00",
     "location": "1 Market Street, Sydney NSW 2000",
-    "activity": "Coding an easter egg for when he's out of office. You're looking at it."
+    "activity": "Chat with Oliver about Ogma and Linkurious"
   },
   {
     "time": "2026-06-25T11:00:00",
@@ -45,34 +40,14 @@
     "activity": "Stress-eating chocolate. Denies it was stress. It was stress."
   },
   {
-    "time": "2026-06-25T12:30:00",
-    "location": "Sydney Central Plaza Food Court, Sydney NSW 2000",
-    "activity": "Gone for lunch. Ordered something healthy. Ate something else."
-  },
-  {
-    "time": "2026-06-25T14:00:00",
-    "location": "1 Market Street, Sydney NSW 2000",
-    "activity": "Back from lunch. Suspiciously full for someone who ordered a salad."
-  },
-  {
     "time": "2026-06-25T15:00:00",
     "location": "1 Market Street, Sydney NSW 2000",
     "activity": "Locking drawers and packing up. Colleagues circling his desk like vultures."
   },
   {
-    "time": "2026-06-25T15:30:00",
-    "location": "1 Market Street, Sydney NSW 2000",
-    "activity": "Setting the out-of-office. You know the one."
-  },
-  {
     "time": "2026-06-25T16:45:00",
     "location": "Town Hall Train Station, Sydney NSW 2000",
-    "activity": "Heading home. Last confirmed sighting in the CBD for some time."
-  },
-  {
-    "time": "2026-06-25T18:45:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Arrived home. Greeted warmly. Immediately asked what's for dinner."
+    "activity": "Heading home. Last confirmed sighting in the CBD."
   },
   {
     "time": "2026-06-26T07:00:00",
@@ -85,68 +60,8 @@
     "activity": "Handing over tasks to colleagues. Confidently describing things he will absolutely forget about."
   },
   {
-    "time": "2026-06-26T13:00:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Lunch at home. First of many."
-  },
-  {
     "time": "2026-06-26T17:00:00",
     "location": "Riverstone NSW 2765",
     "activity": "OOO officially on. Laptop closed. Gone dark."
-  },
-  {
-    "time": "2026-06-27T10:00:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Washing clothes in preparation for holiday. Somehow still finding socks that don't match."
-  },
-  {
-    "time": "2026-06-27T15:00:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Playing at the park with the kids. Currently losing at some game the kinds invented the rules to."
-  },
-  {
-    "time": "2026-06-27T19:00:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Early night."
-  },
-  {
-    "time": "2026-06-28T09:00:00",
-    "location": "New Light Anglican Church, Riverstone NSW 2765",
-    "activity": "At church. Genuinely at peace. Briefly."
-  },
-  {
-    "time": "2026-06-28T12:00:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Packing. Claims to be a light packer. Has four bags."
-  },
-  {
-    "time": "2026-06-28T15:00:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Repacking. Removed two bags. Added one larger bag."
-  },
-  {
-    "time": "2026-06-28T19:00:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Early night. Big drive tomorrow. Car is already packed incorrectly."
-  },
-  {
-    "time": "2026-06-29T07:30:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Up early. Coffee first. Always coffee first."
-  },
-  {
-    "time": "2026-06-29T09:00:00",
-    "location": "Riverstone NSW 2765",
-    "activity": "Driving to Port Macquarie."
-  },
-  {
-    "time": "2026-06-29T11:00:00",
-    "location": "McDonald's, Bulahdelah NSW 2423",
-    "activity": "Mandatory highway McDonald's stop. Not up for debate."
-  },
-  {
-    "time": "2026-06-29T14:00:00",
-    "location": "Port Macquarie NSW 2444",
-    "activity": "Arrived at Port Macquarie. Windows down. Ocean air confirmed."
   }
 ]
