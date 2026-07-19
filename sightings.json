@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-01-07T11:24",
-    "location": "Port macquarie, nsw",
-    "activity": "Fishing - caught some whiting and flathead",
-    "associate": "Friendly fisherman"
-  },
-  {
-    "time": "2026-03-07T13:32",
-    "location": "Port macquarie, nsw",
-    "activity": "Admiring sand castles, light houses and whales",
-    "associate": "Cheeky seagul"
-  },
-  {
     "time": "2026-06-18T07:45:00",
     "location": "1 Market Street, Sydney NSW 2000",
     "activity": "Caught Cam playing with maps and ogma. He may be onto something",
@@ -127,5 +115,17 @@
     "time": "2026-06-30T12:18",
     "location": "Port Macquarie, nsw",
     "activity": "Checking out the old bottlebutt in Burrawan State Forest"
-  }
+  },
+  {
+    "time": "2026-07-01T11:24",
+    "location": "Port macquarie, nsw",
+    "activity": "Fishing - caught some whiting and flathead",
+    "associate": "Friendly fisherman"
+  },
+  {
+    "time": "2026-07-03T13:32",
+    "location": "Port macquarie, nsw",
+    "activity": "Admiring sand castles, light houses and whales",
+    "associate": "Cheeky seagul"
+  },
 ]
