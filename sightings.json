@@ -45,8 +45,8 @@
     "associate": "Abbas"
   },
   {
-    "time": "2026-06-25T13:54",
-    "location": "1 Market Street, Sydney, NSW",
+    "time": "2026-06-25T13:54:00",
+    "location": "1 Market Street, Sydney NSW 2000",
     "activity": "On a call",
     "associate": "James Williams"
   },
@@ -77,55 +77,55 @@
     "activity": "OOO officially on. Laptop closed. Gone dark."
   },
   {
-    "time": "2026-06-27T09:41",
+    "time": "2026-06-27T09:41:00",
     "location": "Riverstone, nsw, australia",
     "activity": "Seen driving with a heavy car full of holiday things"
   },
   {
-    "time": "2026-06-27T11:54",
+    "time": "2026-06-27T11:54:00",
     "location": "Boomerang Park, Raymond Terrace NSW 2324",
     "activity": "Stretching legs with the kids"
   },
   {
-    "time": "2026-06-27T16:30",
+    "time": "2026-06-27T16:30:00",
     "location": "Port Macquarie, nsw, australia",
     "activity": "Checking in to the hotel"
   },
   {
-    "time": "2026-06-28T10:29",
+    "time": "2026-06-28T10:29:00",
     "location": "Port Macquarie",
     "activity": "Walking by the river. Admiring the art rocks"
   },
   {
-    "time": "2026-06-28T18:51",
-    "location": "Port macquarie,nsw",
+    "time": "2026-06-28T18:51:00",
+    "location": "Port Macquarie NSW",
     "activity": "Dinner with the family at Hogsbreath"
   },
   {
-    "time": "2026-06-29T10:17",
-    "location": "Port macquarie",
+    "time": "2026-06-29T10:17:00",
+    "location": "Port Macquarie",
     "activity": "Hand picking strawberries at Ricardos"
   },
   {
-    "time": "2026-06-30T10:07",
-    "location": "Port macquarie, nsw",
+    "time": "2026-06-30T10:07:00",
+    "location": "Port Macquarie NSW",
     "activity": "Escaped the bago maze"
   },
   {
-    "time": "2026-06-30T12:18",
-    "location": "Port Macquarie, nsw",
+    "time": "2026-06-30T12:18:00",
+    "location": "Port Macquarie NSW",
     "activity": "Checking out the old bottlebutt in Burrawan State Forest"
   },
   {
-    "time": "2026-07-01T11:24",
-    "location": "Port macquarie, nsw",
+    "time": "2026-07-01T11:24:00",
+    "location": "Port Macquarie NSW",
     "activity": "Fishing - caught some whiting and flathead",
     "associate": "Friendly fisherman"
   },
   {
-    "time": "2026-07-03T13:32",
-    "location": "Port macquarie, nsw",
+    "time": "2026-07-03T13:32:00",
+    "location": "Port Macquarie NSW",
     "activity": "Admiring sand castles, light houses and whales",
-    "associate": "Cheeky seagul"
-  },
+    "associate": "Cheeky seagull"
+  }
 ]
